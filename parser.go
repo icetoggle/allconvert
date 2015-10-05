@@ -6,7 +6,7 @@ import (
 	"io"
 	"log"
 	"os"
-	// "strconv"
+	"strconv"
 )
 
 type Parser interface {
@@ -210,29 +210,19 @@ func toObject(node *xmlNode) interface{} {
 				}
 				m = append(m, &KeyValue{childName, set, false})
 			} else {
-				// set = make([]*KeyValue, 0)
-				// var childName string
-				// listLen := 0
-				// for _, child := range children {
-				// 	childName = child.name
-				// 	obj = toObject(child)
-				// 	if nil != obj {
-				// 		set = append(set, &KeyValue{strconv.Itoa(listLen), obj, false})
-				// 		listLen = listLen + 1
-				// 	}
-				// }
-				list = make([]interface{}, 0)
+				set = make([]*KeyValue, 0)
 				var childName string
-
+				listLen := 0
 				for _, child := range children {
 					childName = child.name
 					obj = toObject(child)
 					if nil != obj {
-						list = append(list, obj)
+						set = append(set, &KeyValue{strconv.Itoa(listLen), obj, false})
+						listLen = listLen + 1
 					}
 				}
 				// m[name] = list
-				m = append(m, &KeyValue{childName, list, false})
+				m = append(m, &KeyValue{childName, set, false})
 			}
 		} else {
 			obj = toObject(children[0])

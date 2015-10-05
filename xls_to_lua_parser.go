@@ -4,7 +4,6 @@ import (
 	"bytes"
 	"fmt"
 	"os"
-	"path/filepath"
 	"strings"
 )
 
@@ -56,11 +55,6 @@ type XlsToLuaParser struct {
 
 func (this *XlsToLuaParser) SaveToFile(pkg, path string) {
 	var out bytes.Buffer
-
-	pkg = strings.Replace(pkg, string(filepath.Separator), ".", -1)
-	if this.app.prefix != "" {
-		pkg = strings.Join([]string{this.app.prefix, pkg}, ".")
-	}
 	out.WriteString(fmt.Sprintf("module(\"%s\", package.seeall)\n", strings.Replace(pkg, "/", ".", -1)))
 
 	// out.WriteString("{\n")
