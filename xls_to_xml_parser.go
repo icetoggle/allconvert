@@ -31,7 +31,6 @@ func xlsToXml(root *XlsObjNode, enc *xml.Encoder) {
 	for _, key := range valueList {
 		switch key.nodeType {
 		case VALUE_TYPE:
-
 			enc.EncodeToken(xml.StartElement{xml.Name{"", key.key}, make([]xml.Attr, 0)})
 			enc.EncodeToken(xml.CharData(key.value.(string)))
 			enc.EncodeToken(xml.EndElement{xml.Name{"", key.key}})
@@ -97,6 +96,7 @@ type XlsToXmlParser struct {
 func (this *XlsToXmlParser) SaveToFile(pkg, path string) {
 	var out bytes.Buffer
 	enc := xml.NewEncoder(&out)
+	enc.Indent("", "\t")
 	xlsToXml(this.root, enc)
 	enc.Flush()
 	fout, err := os.Create(path)
@@ -104,5 +104,6 @@ func (this *XlsToXmlParser) SaveToFile(pkg, path string) {
 		log.Fatalln(err)
 	}
 	s := out.String()
+
 	fout.WriteString(s)
 }
