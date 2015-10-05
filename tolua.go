@@ -85,6 +85,7 @@ func (p *LuaParser) SaveToFile(pkg, path string) {
 	}
 
 	fmt.Fprintf(file, "module(\"%s\", package.seeall)\n", pkg)
-	file.Write([]byte(result))
-	//return toLuaObject(obj)
+
+	fileBytes := []byte(result)
+	file.Write(fileBytes)
 }

@@ -78,6 +78,6 @@ func (p *JsonParser) SaveToFile(pkg, path string) {
 		log.Fatalln(err)
 	}
 	defer file.Close()
-	file.Write([]byte(result))
-	//return toLuaObject(obj)
+	fileBytes := []byte(result)
+	file.Write(fileBytes)
 }

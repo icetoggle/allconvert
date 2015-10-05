@@ -23,9 +23,13 @@ type Application struct {
 
 	inType  string
 	outType string
+
+	jsonFile *JsonFile
 }
 
 func (this *Application) Run() error {
+
+	this.jsonFile.load(this.inputFile)
 
 	for i := 0; i < 10; i++ {
 		this.group.Add(1)
@@ -39,8 +43,8 @@ func (this *Application) Run() error {
 	}
 
 	close(this.mapChan)
-
 	this.group.Wait()
+	this.jsonFile.save(this.inputFile)
 	return nil
 
 }
@@ -123,12 +127,17 @@ func (this *Application) handler(path string, parser Parser) {
 		log.Fatalln("MkdirAll: ", err)
 	}
 
-	err = parser.traversal(path)
+	if ok := this.jsonFile.isChangeAndSave(path); ok {
 
-	if nil != err {
-		log.Fatalln("parser error", path, err)
+		err = parser.traversal(path)
+
+		if nil != err {
+			log.Fatalln("parser error", path, err)
+		}
+		parser.SaveToFile(pkg, outputFileName)
+
+		log.Println(path)
 	}
-	parser.SaveToFile(pkg, outputFileName)
 }
 
 // func (this *Application) xml2lua(pkg, outputFile string) error {
@@ -169,6 +178,7 @@ func NewApplication(inputFile, ouputFile, inType, outType, prefix string) *Appli
 
 	app.group = sync.WaitGroup{}
 	app.mapChan = make(chan string)
+	app.jsonFile = &JsonFile{}
 
 	return &app
 }

@@ -9,18 +9,27 @@ import (
 	"strconv"
 )
 
+func readerConvertMd5(r io.Reader) string {
+	md5h := md5.New()
+	io.Copy(md5h, r)
+	return hex.EncodeToString(md5h.Sum(nil))
+}
+
 func fileConvertMd5(path string) string {
 	file, err := os.Open(path)
-	if err != nil {
+	if nil != err {
 		log.Fatalln(err)
 	}
-
 	defer file.Close()
-
 	md5h := md5.New()
 	io.Copy(md5h, file)
-
 	return hex.EncodeToString(md5h.Sum(nil))
+}
+
+func bytesConvertMd5(bytes []byte) string {
+	h := md5.New()
+	h.Write(bytes)
+	return hex.EncodeToString(h.Sum(nil))
 }
 
 func golog(fmt string, a ...interface{}) {
