@@ -126,7 +126,7 @@ func (this *Application) handler(path string, parser Parser) {
 	err = parser.traversal(path)
 
 	if nil != err {
-		log.Fatalln("parser error", err)
+		log.Fatalln("parser error", path, err)
 	}
 	parser.SaveToFile(pkg, outputFileName)
 }

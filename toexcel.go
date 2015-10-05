@@ -54,8 +54,8 @@ func (p *ExcelParser) toListObject(row int, prefix string, headpre string, obj i
 		list := obj.([]interface{})
 		for i, child := range list {
 			newPrefix := prefix + "." + strconv.Itoa(i)
-			headpre := headpre + "*"
-			p.toListObject(row, newPrefix, headpre, child)
+			newheadpre := headpre + "*"
+			p.toListObject(row, newPrefix, newheadpre, child)
 		}
 	case []*KeyValue:
 		set := obj.([]*KeyValue)
@@ -176,19 +176,27 @@ func (p *ExcelParser) ToObject() {
 				prefix := keyValue.key
 				child := keyValue.value
 
-				set := child.([]*KeyValue)
-
 				trieNode := new(TrieNode)
 				trieNode.key = prefix
 				trieNode.childNode = make([]*TrieNode, 0)
 				trie.root.childNode = append(trie.root.childNode, trieNode)
 
-				for _, value := range set {
+				switch child.(type) {
+				case []*KeyValue:
+					set := child.([]*KeyValue)
+					for _, value := range set {
 
-					// p.valueList[p.rowNum] = make(map[int]interface{})
-					// p.toListObject(p.rowNum, prefix, prefix, value.value)
-					trie.pushXmlNode(trieNode, value.value)
-					// p.rowNum = p.rowNum + 1
+						// p.valueList[p.rowNum] = make(map[int]interface{})
+						// p.toListObject(p.rowNum, prefix, prefix, value.value)
+						trie.pushXmlNode(trieNode, value.value)
+						// p.rowNum = p.rowNum + 1
+					}
+				case []interface{}:
+					list := child.([]interface{})
+					for _, value := range list {
+						trie.pushXmlNode(trieNode, value)
+					}
+
 				}
 
 			}
@@ -202,13 +210,24 @@ func (p *ExcelParser) ToObject() {
 				prefix := keyValue.key
 				child := keyValue.value
 
-				set := child.([]*KeyValue)
+				switch child.(type) {
+				case []*KeyValue:
+					set := child.([]*KeyValue)
 
-				for _, value := range set {
-					p.valueList[p.rowNum] = make(map[int]interface{})
-					p.toListObject(p.rowNum, prefix, prefix, value.value)
-					p.rowNum = p.rowNum + 1
+					for _, value := range set {
+						p.valueList[p.rowNum] = make(map[int]interface{})
+						p.toListObject(p.rowNum, prefix, prefix, value.value)
+						p.rowNum = p.rowNum + 1
+					}
+				case []interface{}:
+					list := child.([]interface{})
+					for _, value := range list {
+						p.valueList[p.rowNum] = make(map[int]interface{})
+						p.toListObject(p.rowNum, prefix, prefix, value)
+						p.rowNum = p.rowNum + 1
+					}
 				}
+
 			}
 
 		} else {

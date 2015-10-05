@@ -1,0 +1,2069 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"xml2",
+				"xml2lua"
+			],
+			[
+				"func",
+				"func (*Application)	func (...) {...} ʂ"
+			],
+			[
+				"tes",
+				"test2	 ƒ"
+			],
+			[
+				"Tes",
+				"Test"
+			],
+			[
+				"prin",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"filecon",
+				"fileConvertMd5	string ƒ"
+			],
+			[
+				"End",
+				"EncodeToString	string ƒ"
+			],
+			[
+				"pri",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"md",
+				"md5h"
+			],
+			[
+				"fa",
+				"Fatalln	 ƒ"
+			],
+			[
+				"Open",
+				"OpenFile	*os.File, error ƒ"
+			],
+			[
+				"Fa",
+				"Fatalln	 ƒ"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"ou",
+				"outType"
+			],
+			[
+				"in",
+				"inType"
+			],
+			[
+				"out",
+				"outType	string ν"
+			],
+			[
+				"inpu",
+				"inputFile"
+			],
+			[
+				"fm",
+				"fmt	 package ρ"
+			],
+			[
+				"newma",
+				"newmath	 package ρ"
+			],
+			[
+				"Sq",
+				"Sqrt	float64 ƒ"
+			],
+			[
+				"newm",
+				"newmath	 package ρ"
+			],
+			[
+				"set",
+				"settings"
+			],
+			[
+				"Pr",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"main",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"im",
+				"import	import (...) ʂ"
+			],
+			[
+				"txt",
+				"txt1"
+			],
+			[
+				"perHp",
+				"preHpPer"
+			],
+			[
+				"preHp",
+				"preHpPer"
+			],
+			[
+				"com",
+				"comboEnd"
+			],
+			[
+				"combo",
+				"comboEnd"
+			],
+			[
+				"G",
+				"GObjMgr"
+			],
+			[
+				"mas",
+				"masterId"
+			],
+			[
+				"PL",
+				"PLAYER"
+			],
+			[
+				"rangeBuff",
+				"VarRangeBuffControllerAi"
+			],
+			[
+				"impact",
+				"impactId"
+			],
+			[
+				"obj",
+				"obj"
+			],
+			[
+				"getObj",
+				"getObjByGroup"
+			],
+			[
+				"playEff",
+				"playEffectSound"
+			],
+			[
+				"musi",
+				"music03"
+			],
+			[
+				"view",
+				"viewConfig"
+			],
+			[
+				"ID",
+				"Idle"
+			],
+			[
+				"Role",
+				"RoleState"
+			],
+			[
+				"des",
+				"desPositionX"
+			],
+			[
+				"curPos",
+				"curPostionY"
+			],
+			[
+				"pos",
+				"positionY"
+			],
+			[
+				"posi",
+				"positionX"
+			],
+			[
+				"desPo",
+				"desPositionY"
+			],
+			[
+				"sca",
+				"scaleY"
+			],
+			[
+				"scal",
+				"scaleY"
+			],
+			[
+				"end",
+				"endTime"
+			],
+			[
+				"GMapEve",
+				"GMapEventMgr():notifyEvent"
+			],
+			[
+				"offs",
+				"offsetY"
+			],
+			[
+				"GMap",
+				"GMapScene"
+			],
+			[
+				"onUpd",
+				"onUpdateEnemy"
+			],
+			[
+				"onUp",
+				"onUpdateEnemy"
+			],
+			[
+				"EXP",
+				"ExpMapScene"
+			],
+			[
+				"dis",
+				"dispose"
+			],
+			[
+				"tx",
+				"txt1"
+			],
+			[
+				"UP",
+				"UPDATE_LIANJI"
+			],
+			[
+				"color",
+				"color2"
+			],
+			[
+				"colo",
+				"color3"
+			],
+			[
+				"Var",
+				"VarRangeBuffControllerAi"
+			],
+			[
+				"VarRange",
+				"VarRangeBuffCtrlTag"
+			],
+			[
+				"viewBuff",
+				"viewBuff2"
+			],
+			[
+				"class",
+				"class	class"
+			],
+			[
+				"effec",
+				"effectToObj"
+			],
+			[
+				"effectTo",
+				"effectToObj"
+			],
+			[
+				"SkillHu",
+				"SkillHumanAttack"
+			],
+			[
+				"SkillHuman",
+				"SkillHumanShutAttack"
+			],
+			[
+				"getBull",
+				"getBulletDegree"
+			],
+			[
+				"SkillHuma",
+				"SkillHumanAttack"
+			],
+			[
+				"val",
+				"validate"
+			],
+			[
+				"not",
+				"notKill"
+			],
+			[
+				"skillC",
+				"skillContainer:getSkill"
+			],
+			[
+				"for",
+				"forp	for k,v in pairs()"
+			],
+			[
+				"Mons",
+				"Monster"
+			],
+			[
+				"enem",
+				"enemyPositionY"
+			],
+			[
+				"local",
+				"localPositionY"
+			],
+			[
+				"enemy",
+				"enemyPositionY"
+			],
+			[
+				"enemyPos",
+				"enemyPositionX"
+			],
+			[
+				"localPos",
+				"localPositionY"
+			],
+			[
+				"Rang",
+				"RangeBuffControllerAi"
+			],
+			[
+				"objGrou",
+				"objGroupCount"
+			],
+			[
+				"objGroup",
+				"objGroup"
+			],
+			[
+				"aEff",
+				"aEffecting"
+			],
+			[
+				"max",
+				"maxX"
+			],
+			[
+				"create",
+				"create"
+			],
+			[
+				"bulle",
+				"bullet"
+			],
+			[
+				"bullet",
+				"bullet"
+			],
+			[
+				"roleLay",
+				"roleLayer:addChild"
+			],
+			[
+				"bull",
+				"bullet"
+			],
+			[
+				"GMa",
+				"GMapScene"
+			],
+			[
+				"calc",
+				"calc16DirectionByDegree"
+			],
+			[
+				"findIm",
+				"findImpactByType"
+			],
+			[
+				"ene",
+				"enemyList"
+			],
+			[
+				"effe",
+				"effectToObj"
+			],
+			[
+				"orig",
+				"originColor"
+			],
+			[
+				"cdTime",
+				"cdTime"
+			],
+			[
+				"Player",
+				"Player"
+			],
+			[
+				"GEve",
+				"GMapEventMgr():notifyEvent"
+			],
+			[
+				"GMapE",
+				"GMapEventMgr():notifyEvent"
+			],
+			[
+				"Roe",
+				"RoleType"
+			],
+			[
+				"sequece",
+				"sequenceList"
+			],
+			[
+				"upd",
+				"updateEnemyCdTime"
+			],
+			[
+				"buff",
+				"buff1"
+			],
+			[
+				"attack",
+				"attackObjId"
+			],
+			[
+				"gold",
+				"goldNum"
+			],
+			[
+				"Item",
+				"ItemLoader"
+			],
+			[
+				"Impa",
+				"ImpactThunder"
+			],
+			[
+				"mode",
+				"module	module"
+			],
+			[
+				"getDam",
+				"getDamageTop"
+			],
+			[
+				"MOns",
+				"MonsterAi"
+			],
+			[
+				"master",
+				"master"
+			],
+			[
+				"cal",
+				"calc16AccurateDirection"
+			],
+			[
+				"Pla",
+				"Player"
+			],
+			[
+				"grou",
+				"groupType"
+			],
+			[
+				"Pl",
+				"Player"
+			],
+			[
+				"skillCont",
+				"skillContainer:use"
+			],
+			[
+				"skillContai",
+				"skillContainer:getSkill"
+			],
+			[
+				"getCd",
+				"getCdStatus"
+			],
+			[
+				"cha",
+				"chainTime"
+			],
+			[
+				"use",
+				"useChainTime"
+			],
+			[
+				"getWorld",
+				"getWorldPositionByName"
+			],
+			[
+				"degr",
+				"degree"
+			],
+			[
+				"find",
+				"findMinDisEnemyByEnemy"
+			],
+			[
+				"deg",
+				"degree"
+			],
+			[
+				"Move",
+				"MoveAction"
+			],
+			[
+				"Bull",
+				"BulletType"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.go",
+			"settings":
+			{
+				"buffer_size": 2631,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "parser.go",
+			"settings":
+			{
+				"buffer_size": 1349,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "toexcel.go",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "utils.go",
+			"settings":
+			{
+				"buffer_size": 292,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "md5_test.go",
+			"settings":
+			{
+				"buffer_size": 206,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test.go",
+			"settings":
+			{
+				"buffer_size": 279,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "allconvert.sublime-project",
+			"settings":
+			{
+				"buffer_size": 81,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 316.0,
+		"last_filter": "lis",
+		"selected_items":
+		[
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"LIS",
+				"Package Control: List Packages"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 318.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"view.run_command(\"xml_to_lua\")",
+			"print(\"hello\")",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path();urllib.request.install_opener( urllib.requestbuild_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"print(\"hello\")",
+			"print(a)",
+			"print(\"hello\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ice/Documents/workspace/gocode",
+		"/Users/ice/Documents/workspace/gocode/src",
+		"/Users/ice/Documents/workspace/gocode/src/allconvert"
+	],
+	"file_history":
+	[
+		"/Users/ice/Documents/workspace/gocode/src/allconvert/md5.go",
+		"/Users/ice/Documents/workspace/服务器地址.txt",
+		"/Users/ice/Library/Application Support/Sublime Text 3/Packages/Modific/Modific.sublime-settings",
+		"/Users/ice/Library/Application Support/Sublime Text 2/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/Users/ice/Library/Application Support/Sublime Text 2/Packages/GoSublime/Default (OSX).sublime-keymap",
+		"/Users/ice/Library/Application Support/Sublime Text 2/Packages/GoSublime/GoSublime.sublime-settings",
+		"/Users/ice/Library/Application Support/Sublime Text 2/Packages/GoSublime/USAGE.md",
+		"/Users/ice/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/ice/Documents/myspace/go/newmath.go",
+		"/Users/ice/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+		"/Users/ice/Documents/myspace/go/go.sublime-project",
+		"/Users/ice/Documents/myspace/go/test.go",
+		"/Users/ice/Documents/myspace/go/test",
+		"/Users/ice/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/ice/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+		"/Users/ice/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/xml/role/pet.xml",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/ui/AlertPanel.json",
+		"/Users/ice/Library/Application Support/iPhone Simulator/7.1/Applications/B31A59E9-F167-4DDD-8036-7DCED95845A8/Documents/config/scene/expScene.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/ui/exp_result.json",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/sound/Sound206.wav",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/skill/skillList.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/role/npc.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/utils/batchNodeCache.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/xml/skill/expr.xml",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/ui/connet.json",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/pb/clpb/test.proto",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/config/gameui/bag/bagTest.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/ui/game_title.json",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/skill/skillTeleport.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/utils/roleUtil.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/role/monster/maomao/maomao.plist",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/impact/impactManager.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/effect/laser/1.plist",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/effect/laser/1.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/xml/gameui/dailycopy/dailymap.xml",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/xml/scene/goldScene.xml",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/skill/skillAttract.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/xml/role/player.xml",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/pb/clpb/dailymap.proto",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/music/music03.mp3",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/global/model.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/music/music02.mp3",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/music/music01.mp3",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/shoot.sublime-project",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/gameui/battle/battleMapPanel.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/controller/pushMapController.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/sound/Sound101.wav",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/load/source.json",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/utils/subject.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/skill/skillSummon.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/ui/game_lose.json",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/impact/buff.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/ui/exp_game_title.json",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/ui/expBigCardPanel.json",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/map/expMapScene.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/role/x2l",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/role/monster/xiangrikui/xiangrikui.lproj",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/collision/collisionBox.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/gameui/gameView/endlessMapView.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/collision/colList.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/map/endLessMapScene.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/ui/endLessChallengePanel.json",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/ui/system_change_head.json",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/controller/sceneController.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/gameui/dailyCopy/expFailPanel.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/ui/dailyInformationPanel.json",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/ui/exchangeBuyPanel.json",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/ui/expInformationPanel.json",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/config/skill/expr.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/config/skill副本/expr.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/xml/skill副本/expr.xml",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/effect/buff/fangyu.action",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/effect/buff/fangyu.plist",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/effect/jiqiang/_desktop.ini",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/role/definition.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/config/scene/expScene.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/common/expr.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/utils/string.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/config/gameui/strong/equip_intensify.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/role/monster/kuangdong/kuangdong.lproj",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/role/monster/kuangdong/kuangdong.plist",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/xml/role/item.xml",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/role/monster/she/she.lproj",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/xml/role/monster.xml",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/common/eventMgr.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/role/player/xiongerpang/xiongerpang.lproj",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/effect/jiqiang3/1.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/effect/jiqiang3/3.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/effect/jiqiang3/3.plist",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/effect/jiqiang3/1.plist",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/xml/skill/skill.xml",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/skill/skillHalo.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/config/gameui/language/login_test.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/xml/skill副本/skill.xml.bak",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/impact/impact.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/role/item/tauntItem.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/effect/jiqiang/1.plist",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/gameui/test/testOrderConfig.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/gameui/endless/endLessOverPanel.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/pb/clpb/endless.proto",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/utils/table.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/role/item/include.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/xml/role/trap.xml",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/ai/moveAi.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/skill/skillRangeBuff.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/xml/skill/skillView.xml",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/effect/jiqiang/3.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/gameui/endless/endLessExchangePanel.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/role/role.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/gameui/alert/alertPanel.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/map/mapManager.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/gameui/actionbar/skillIcon.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/effect/jiqiang/1.action",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/common/cdTime.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/ai/monsterAi.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/main.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/controller/include.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/ai/petAi.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/gameui/bag/iconItemPanel.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/config/role/trap.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/utils/helper.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/script/utils/languageUtil.lua",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/effect/buff/jiasu.action",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/ui/role_grow.json",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/xml/gameui/rolelvl/role_level.xml",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/xml/gameui/rolelvl/role_star.xml",
+		"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/ui/login_panel.json"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*.lua",
+			"*.xml",
+			"",
+			"*.lproj",
+			"",
+			"-*application.lua",
+			"",
+			"-application.lua",
+			"",
+			"/Users/ice/Documents/workspace/source/cocos2d-x-2.2.3/projects/shoot/Resources/data/effect/laser",
+			"",
+			"<open files>,-*json.lua,-utils.lua",
+			"<open files>,-*json.lua",
+			"ccassert",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/gate2",
+			"",
+			"*.lua",
+			"*.xml",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/map",
+			"",
+			"*.lua,/Users/ice/Documents/workspace/server/server_ex/common_server",
+			"*.lua",
+			"*.xml",
+			"*.lua",
+			"*.xml",
+			"*.lua",
+			"",
+			"*.xml",
+			"*.lua",
+			"",
+			"*.xml",
+			"*.lua",
+			"",
+			"*.lua",
+			"*.xml",
+			"*.lua",
+			"*.xml",
+			"*.lua",
+			"*.xml",
+			"*.lua",
+			"*.xml",
+			"*.lua",
+			"*.xml",
+			"*.lua",
+			"",
+			"*.lua",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/common_server/world_buy,/Users/ice/Documents/workspace/server/server_ex/map/world_buy,/Users/ice/Documents/workspace/server/server_ex/gate/world_buy",
+			"/Users/ice/Documents/workspace/server/server_ex/common_server/world_buy,/Users/ice/Documents/workspace/server/server_ex/map,/Users/ice/Documents/workspace/server/server_ex/gate/world_buy",
+			"/Users/ice/Documents/workspace/server/server_ex/common_server/world_buy,/Users/ice/Documents/workspace/server/server_ex/map,/Users/ice/Documents/workspace/server/server_ex/gate",
+			"/Users/ice/Documents/workspace/server/server_ex/common_server/world_buy",
+			"-*backup",
+			"-*backup*",
+			"",
+			"*.lua,/Users/ice/Documents/workspace/server/server_ex/common_server",
+			"*.lua",
+			"*.xml",
+			"*.lua",
+			"*.xml",
+			"*.lua",
+			"*.xml",
+			"*.lua",
+			"*.xml",
+			"*.lua",
+			"*.xml",
+			"*.lua",
+			"",
+			"*.lua,/Users/ice/Documents/workspace/server/server_ex/map",
+			"*.lua",
+			"*.lu'a",
+			"",
+			"*.xml",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/gm",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/common_server",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/gate",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/map",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/map",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/gate/team_war",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/world",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/map",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/world",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/map",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/map",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/gate",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/gate",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/gate",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/gate",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/map",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/gate",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/map",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/chat_email",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/map/obj/world_human_fight,/Users/ice/Documents/workspace/server/server_ex/common_server/world_war",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/common_server",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/map",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/map",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/common_server/pet_fight",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/common_server/pet_adventure,/Users/ice/Documents/workspace/server/server_ex/common_server/pet_fight",
+			"",
+			"/Users/ice/Documents/workspace/server/server_ex/common_server",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"mapChan",
+			"this.mapChan\nthis.mapChan",
+			"this.mapChan",
+			"raySkill",
+			"onUpdateDirection",
+			"51002",
+			"endTime",
+			"51001",
+			"map config",
+			"getBulletDegree",
+			"restrain",
+			"preHpPer",
+			"updateBossHp",
+			"UPDATE_BOSS_HP",
+			"onUpdateBossHp",
+			"onUpdateCombo",
+			"shake",
+			"getHp",
+			"self.pet",
+			"model.hp",
+			"createMaster",
+			"onUpdateBossHp",
+			"setSkillView",
+			"setGameView",
+			"gameView",
+			"setGameView",
+			"gameView",
+			"15",
+			"Player",
+			"self.model.hp",
+			"hp",
+			"self.module",
+			"ExpMapScene",
+			"GoldSequenceContainer",
+			"changeBuff",
+			"711000",
+			"25</type>",
+			"self.isShak",
+			"self.isShak ",
+			"updateSkillShake",
+			"isShake",
+			"USE_BIG_SKILL",
+			"updateShakeEventId",
+			"updateShake",
+			"updateShakeEventId",
+			"PLAYER_HURT",
+			"MOVE_STATE.IDLE",
+			"IDLE",
+			"lualog",
+			"onUpdateEnemy",
+			"Idle",
+			"IDLE",
+			"onRandomMove",
+			"MOVE",
+			"Move",
+			"MOVE",
+			"motion",
+			"curPostion",
+			")\n",
+			"curPostion",
+			"getNextPos",
+			"MOVE_STATE.MOVE",
+			"MOVE_STATE.IDLE",
+			"getNextPos",
+			"MOVE_STATE.IDLE",
+			"MOVE_STATE.MOVE",
+			"onUpdateEnemy",
+			"Move",
+			"MOVE",
+			"setState",
+			"showDeathEffect",
+			"IDLE",
+			"refreshColBox",
+			"showColBox",
+			"getWorldPointList",
+			"showEndParticle",
+			"trigger",
+			"getEndTime",
+			"endtime",
+			"getEndTime",
+			"setup",
+			"mapType",
+			"GroupType.Enemy",
+			"getEnemyList",
+			"isNet",
+			"streakWithFade",
+			"localPosition",
+			"showEndParticle",
+			"isStreak",
+			"streak",
+			"Streak",
+			"streak",
+			"Streak",
+			"streak",
+			"Streak",
+			"streak",
+			"isRem",
+			"TowerAi",
+			"nomoveAi",
+			"67007",
+			"onAutoSkill",
+			"射线塔",
+			"GOLD_SCENE",
+			"GoldMapScene",
+			"jiqiang2",
+			"effect/jiqiang2/1.plist",
+			"106",
+			"showAttr",
+			"getRoleFirearmColor",
+			"updateLianji",
+			"updateLianjiEventId",
+			"UPDATE_LIANJI",
+			"comboNu",
+			"level",
+			"定身",
+			"63002",
+			"<type>4<",
+			"开关",
+			"getBulletColor",
+			"changeBuff",
+			"NoMoveAi",
+			"RangeBuffAi",
+			"<type>4",
+			"incComboNum",
+			"restoreComboNum",
+			"comboNum",
+			"incComboNum",
+			"isRem"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"AutoPlayer",
+			"ArenaMapScene",
+			"ExpSequenceContainer",
+			"ExpMapScene",
+			"jiqiang3",
+			"zoudong",
+			"",
+			"3000",
+			"self.model.hp",
+			":getMissionUse()",
+			"self.model.hp",
+			"GMaster()",
+			"restrain",
+			"self:getAttackRange()",
+			"GMapEventMgr()",
+			"GMapScene()",
+			"GObjMgr()",
+			"2000",
+			"",
+			"estrain",
+			"2000",
+			"Refresh",
+			"effect/chongwu_tisheng/",
+			"effect/chongwu_jiaxue/",
+			"effect/chongwu_hudun/",
+			"eventMap",
+			"EventMgr",
+			"refreshArea",
+			"role/pet//",
+			"role/player//",
+			"role/monster//",
+			"player/xionger/",
+			"player/xiongda/",
+			"player/guangtouqiang/",
+			"pet/maotouying/",
+			"pet/hudie/",
+			"pet/feibo/",
+			"monster/zhuanghan/",
+			"monster/xiyi/",
+			"monster/xiezi/",
+			"monster/xiaobing/",
+			"monster/wugong/",
+			"monster/shuijinger/",
+			"monster/mifeng/",
+			"monster/fox/",
+			"monster/dazuie/",
+			"monster/dazuie",
+			"effect",
+			"",
+			"effect/xianjing/3",
+			"<key>",
+			"effect/xianjing/2",
+			"effect/shouliudan/3",
+			"zoudong/zoudong",
+			"daiji/daiji",
+			"gongji/gongji",
+			"<key>effect/shouliudan/baozha",
+			"<key>effect/shouliudan/xianjing",
+			"<key>effect/shouliudan/baozha",
+			"gEv.time",
+			"effect_shouliudan_baozha",
+			"key>jitui_10",
+			"key>jitui/10",
+			"obj",
+			"",
+			"../Resources",
+			"showCEffect",
+			"",
+			"bulletSpeed",
+			"s",
+			"",
+			"role/fox/",
+			"role/bear",
+			"BombBullet",
+			"SkillSnipe",
+			"SkillBeatBack",
+			"SkillMeBack",
+			" ",
+			"ImpactAddHp",
+			"Character",
+			"role",
+			"id",
+			"",
+			"id",
+			"item",
+			"id",
+			"skill",
+			"",
+			"id",
+			"",
+			"role",
+			"",
+			"ccassert",
+			"ShutBullet",
+			"SkillManager",
+			"data",
+			"Drug",
+			"Npc",
+			"Pet",
+			"bulletSet",
+			"RefreshContainer",
+			"get_value",
+			"<t_class>16</t_class>",
+			"Artifact_human_bag",
+			",",
+			"<img>ling/5",
+			"<Item id=\"5",
+			"Offline_world_war_mgr",
+			"Offline_world_war_container",
+			"Offline_world_war_mgr",
+			"Artifact_ling",
+			"Scene_tower_advance",
+			"Lingshi_bank",
+			"Artifact_bag",
+			"skill",
+			"Skill_ling",
+			"Scene_world_rank",
+			"World_rank_mgr",
+			"Cworld_rank_mgr",
+			"",
+			"World_faction_war_mgr",
+			"",
+			",[",
+			"]=",
+			"",
+			",[",
+			"]=",
+			"="
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/Users/ice/Documents/workspace/gocode/src",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1872,
+								1872
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1610.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "parser.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1349,
+								1349
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 493.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "toexcel.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "utils.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "md5_test.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								206,
+								206
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "test.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								244,
+								244
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 28.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "allconvert.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 81,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/ice/Documents/myspace/go":
+	{
+		"height": 249.0
+	},
+	"output.9o:///Users/ice/Documents/myspace/go/src":
+	{
+		"height": 199.0
+	},
+	"output.9o:///Users/ice/Documents/workspace/gocode/src/allconvert":
+	{
+		"height": 395.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 88.0
+	},
+	"output.exec":
+	{
+		"height": 141.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "allconvert.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pet.xml",
+				"data/xml/role/pet.xml"
+			],
+			[
+				"roleuti",
+				"script/utils/roleUtil.lua"
+			],
+			[
+				"petai.lua",
+				"script/ai/petAi.lua"
+			],
+			[
+				"pet.lua",
+				"script/role/pet.lua"
+			],
+			[
+				"base",
+				"script/collision/base.lua"
+			],
+			[
+				"",
+				"data/xml/scene/goldScene.xml"
+			],
+			[
+				"playerai.lua",
+				"script/ai/playerAi.lua"
+			],
+			[
+				"player",
+				"script/role/player.lua"
+			],
+			[
+				"application",
+				"script/application.lua"
+			],
+			[
+				"map",
+				"script/map/mapScene.lua"
+			],
+			[
+				"player.lua",
+				"script/role/player.lua"
+			],
+			[
+				"expscen.xml",
+				"data/xml/scene/expScene.xml"
+			],
+			[
+				"dailymap.xml",
+				"data/xml/gameui/dailycopy/dailymap.xml"
+			],
+			[
+				"expma",
+				"script/map/expMapScene.lua"
+			],
+			[
+				"expmap",
+				"script/map/expMapScene.lua"
+			],
+			[
+				"expscen",
+				"data/xml/scene/expScene.xml"
+			],
+			[
+				"gold",
+				"script/map/goldMapScene.lua"
+			],
+			[
+				"expscene.xml",
+				"data/xml/scene/expScene.xml"
+			],
+			[
+				"goldscen",
+				"data/xml/scene/goldScene.xml"
+			],
+			[
+				"sample",
+				"data/xml/scene/sampleScene.xml"
+			],
+			[
+				"testpa",
+				"script/gameui/test/testPanel.lua"
+			],
+			[
+				"utis",
+				"script/utils/utils.lua"
+			],
+			[
+				"monster.lua",
+				"script/role/monster.lua"
+			],
+			[
+				"skill.xml",
+				"data/xml/skill/skill.xml"
+			],
+			[
+				"skill.lua",
+				"script/skill/skill.lua"
+			],
+			[
+				"skillatt",
+				"script/skill/skillAttack.lua"
+			],
+			[
+				"trapconf",
+				"script/config/role/trapConfig.lua"
+			],
+			[
+				"trap.xml",
+				"data/xml/role/trap.xml"
+			],
+			[
+				"skillatta",
+				"script/skill/skillAttack.lua"
+			],
+			[
+				"skillattack",
+				"script/skill/skillAttack.lua"
+			],
+			[
+				"monsterai.lua",
+				"script/ai/monsterAi.lua"
+			],
+			[
+				"monsterai",
+				"script/ai/monsterAi.lua"
+			],
+			[
+				"monsterai.la",
+				"script/ai/monsterAi.lua"
+			],
+			[
+				"samp",
+				"data/xml/scene/sampleScene.xml"
+			],
+			[
+				"monster.xml",
+				"data/xml/role/monster.xml"
+			],
+			[
+				"player.xml",
+				"data/xml/role/player.xml"
+			],
+			[
+				"expr.lua",
+				"script/common/expr.lua"
+			],
+			[
+				"monster.mxl",
+				"data/xml/role/monster.xml"
+			],
+			[
+				"goldscen.xml",
+				"data/xml/scene/goldScene.xml"
+			],
+			[
+				"expscene",
+				"data/xml/scene/expScene.xml"
+			],
+			[
+				"expr",
+				"script/common/expr.lua"
+			],
+			[
+				"char",
+				"script/role/character.lua"
+			],
+			[
+				"test",
+				"script/gameui/test/testPanel.lua"
+			],
+			[
+				"testconf",
+				"script/gameui/test/testOrderConfig.lua"
+			],
+			[
+				"monsattr",
+				"data/xml/role/monsterAttr.xml"
+			],
+			[
+				"gameview",
+				"script/gameui/gameView/gameView.lua"
+			],
+			[
+				"autopla",
+				"script/role/AutoPlayer.lua"
+			],
+			[
+				"gamevie",
+				"script/gameui/gameView/gameView.lua"
+			],
+			[
+				"mapscene",
+				"script/map/mapScene.lua"
+			],
+			[
+				"mapsce",
+				"script/map/mapScene.lua"
+			],
+			[
+				"plyaer.lua",
+				"script/role/player.lua"
+			],
+			[
+				"auto",
+				"script/role/AutoPlayer.lua"
+			],
+			[
+				"player.lu",
+				"script/role/player.lua"
+			],
+			[
+				"include",
+				"script/skill/include.lua"
+			],
+			[
+				"player.xm",
+				"data/xml/role/player.xml"
+			],
+			[
+				"area",
+				"script/map/arenaMapScene.lua"
+			],
+			[
+				"defin",
+				"script/role/definition.lua"
+			],
+			[
+				"rolemana",
+				"script/role/roleManager.lua"
+			],
+			[
+				"endlessmapview",
+				"script/gameui/gameView/endlessMapView.lua"
+			],
+			[
+				"trap.xm",
+				"data/xml/role/trap.xml"
+			],
+			[
+				"impact.xml",
+				"data/xml/skill/impact.xml"
+			],
+			[
+				"dailmap.xml",
+				"data/xml/gameui/dailycopy/dailymap.xml"
+			],
+			[
+				"skillrange",
+				"script/skill/skillRangeBuff.lua"
+			],
+			[
+				"monster.mx",
+				"data/xml/role/monster.xml"
+			],
+			[
+				"monstre",
+				"script/ai/monsterAi.lua"
+			],
+			[
+				"item.xml",
+				"data/xml/role/item.xml"
+			],
+			[
+				"impact.mx",
+				"data/xml/skill/impact.xml"
+			],
+			[
+				"impactmana",
+				"script/impact/impactManager.lua"
+			],
+			[
+				"buff.lua",
+				"script/impact/buff.lua"
+			],
+			[
+				"impact.lua",
+				"script/impact/impact.lua"
+			],
+			[
+				"moveai",
+				"script/ai/moveAi.lua"
+			],
+			[
+				"skillrang",
+				"script/skill/skillRangeBuff.lua"
+			],
+			[
+				"soundmode",
+				"script/sound/soundModule.lua"
+			],
+			[
+				"skilview",
+				"data/xml/skill/skillView.xml"
+			],
+			[
+				"soundm",
+				"script/sound/soundModule.lua"
+			],
+			[
+				"skillview",
+				"data/xml/skill/skillView.xml"
+			],
+			[
+				"audioengine",
+				"script/utils/AudioEngine.lua"
+			],
+			[
+				"soumod",
+				"script/sound/soundModule.lua"
+			],
+			[
+				"skillua",
+				"script/skill/skillAttack.lua"
+			],
+			[
+				"soudmod",
+				"script/sound/soundModule.lua"
+			],
+			[
+				".mp3",
+				"data/music/music03.mp3"
+			],
+			[
+				"sou",
+				"data/sound/Sound206.wav"
+			],
+			[
+				"soundmod",
+				"script/sound/soundModule.lua"
+			],
+			[
+				"even",
+				"script/common/eventMgr.lua"
+			],
+			[
+				"bullet.lua",
+				"script/role/bullet/bullet.lua"
+			],
+			[
+				"move",
+				"script/ai/moveAi.lua"
+			],
+			[
+				"moveai.lua",
+				"script/ai/moveAi.lua"
+			],
+			[
+				"expman",
+				"script/map/expMapScene.lua"
+			],
+			[
+				"monster",
+				"script/ai/monsterAi.lua"
+			],
+			[
+				"move.ua",
+				"script/ai/moveAi.lua"
+			],
+			[
+				"utils",
+				"script/utils/utils.lua"
+			],
+			[
+				"monattr",
+				"data/xml/role/monsterAttr.xml"
+			],
+			[
+				"sampel",
+				"data/xml/scene/sampleScene.xml"
+			],
+			[
+				"exm",
+				"script/map/expMapScene.lua"
+			],
+			[
+				"exp",
+				"script/controller/expController.lua"
+			],
+			[
+				"collisiongraphic",
+				"script/collision/collisionGraphic.lua"
+			],
+			[
+				"colpl",
+				"script/collision/colPolygon.lua"
+			],
+			[
+				"col",
+				"script/collision/colRec.lua"
+			],
+			[
+				"colre",
+				"script/collision/colRec.lua"
+			],
+			[
+				"uti",
+				"script/utils/utils.lua"
+			],
+			[
+				"colp",
+				"script/collision/colPolygon.lua"
+			],
+			[
+				"colrec",
+				"script/collision/colRec.lua"
+			],
+			[
+				"bullet.ua",
+				"script/role/bullet/bullet.lua"
+			],
+			[
+				"dailyma",
+				"data/xml/gameui/dailycopy/dailymap.xml"
+			],
+			[
+				"expsce",
+				"data/xml/scene/expScene.xml"
+			],
+			[
+				"daily",
+				"data/xml/gameui/dailycopy/dailymap.xml"
+			],
+			[
+				"endlessmap",
+				"script/gameui/gameView/endlessMapView.lua"
+			],
+			[
+				"expmapview",
+				"script/gameui/gameView/expMapView.lua"
+			],
+			[
+				"expsen.xml",
+				"data/xml/scene/expScene.xml"
+			],
+			[
+				"allsce",
+				"script/config/scene/allSceneConfig.lua"
+			],
+			[
+				"gold.xml",
+				"data/xml/scene/goldScene.xml"
+			],
+			[
+				"exps",
+				"data/xml/scene/expScene.xml"
+			],
+			[
+				"expscene.xm",
+				"data/xml/scene/expScene.xml"
+			],
+			[
+				"range",
+				"script/skill/skillRangeBuff.lua"
+			],
+			[
+				"trap",
+				"data/xml/role/trap.xml"
+			],
+			[
+				"trapconfi",
+				"script/config/role/trapConfig.lua"
+			],
+			[
+				"def",
+				"script/role/definition.lua"
+			],
+			[
+				"monsterlost",
+				"data/xml/role/monsterLost.xml"
+			],
+			[
+				"colpolygon",
+				"script/collision/colPolygon.lua"
+			],
+			[
+				"mapscen",
+				"script/map/mapScene.lua"
+			],
+			[
+				"item.lua",
+				"script/role/item/item.lua"
+			],
+			[
+				"mon.xml",
+				"data/xml/role/monster.xml"
+			],
+			[
+				"monsterloader",
+				"script/role/monsterLoader.lua"
+			],
+			[
+				"monsterattr",
+				"data/xml/role/monsterAttr.xml"
+			],
+			[
+				"mon",
+				"script/ai/monsterAi.lua"
+			],
+			[
+				"plyaer.xml",
+				"data/xml/role/player.xml"
+			],
+			[
+				"trpconfi",
+				"script/config/role/trapConfig.lua"
+			],
+			[
+				"trapxm",
+				"data/xml/role/trap.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
